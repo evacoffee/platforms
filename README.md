@@ -1,7 +1,8 @@
 # platforms
 get apples?
 
-<img width="375" height="196" alt="Screenshot 2026-08-05 at 22-13-53 Photo - Google Photos" src="https://github.com/user-attachments/assets/b886f05a-fecf-44d5-b055-adfdf2bd7cf6" />
+<img width="375" height="196" alt="Screenshot 2026-08-05 at 22-13-53 Photo - Google Photos" src="https://github.com/user-attachments/assets/64c447c6-2679-49d7-ad27-96ad6e887abc" />
+
 
 game made with godot and gdscript with moving ploatforms and apples (what more can you want)!
 
