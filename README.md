@@ -1,6 +1,8 @@
 # platforms
 get apples?
 
+play here!: https://evmaagca.itch.io/platforms
+
 <img width="375" height="196" alt="Screenshot 2026-08-05 at 22-13-53 Photo - Google Photos" src="https://github.com/user-attachments/assets/64c447c6-2679-49d7-ad27-96ad6e887abc" />
 
 
