@@ -8,7 +8,7 @@ play here!: https://evmaagca.itch.io/platforms
 
 game made with godot and gdscript with moving ploatforms and apples (what more can you want)!
 
-##development:
+## development:
 
 1.) clone this repo
 ```sh
